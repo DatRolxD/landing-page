@@ -1,0 +1,32 @@
+:root{ 
+  --bg-clr-dark: #1F2937;
+  
+  --fs-hero-main: 48px;
+  --fw-hero-main: 900;
+  --clr-hero-main: #F9FAF8;
+
+  --fs-hero-sec: 18px;
+  --clr-hero-sec: #E5E7EB;
+
+  --fs-header-logo: 24px;
+  --clr-header-logo: #F9FAF8;
+
+  --bg-clr-cta: #3882F6;
+  --fs-information-header: 36px;
+  --fw-information-header: 900;
+  --clr-information-header: #1f2937;
+
+  --bg-clr-quote: #E5E7EB;
+  --fs-quote: 36px;
+  --fw-quote: 200;
+  --fst-quote: italic;
+  --clr-quote: #1f2937;   
+
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
